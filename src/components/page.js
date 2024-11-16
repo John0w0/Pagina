@@ -112,7 +112,7 @@ function page() {
     </main>
 
     <footer>
-      <p>© 2024 Conciencia Climática | Mateo Carrillo</p>
+      <p>© 2024 Conciencia Climática | Mateo Carrillo | Tomas Jimenez | Vanessa Novoa</p>
     </footer>
   </div>
   )
